@@ -1,0 +1,1 @@
+# puppet_client_ntp_over_dhcp
